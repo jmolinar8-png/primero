@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1774280222 source:c:\users\mrjos\documents\progra\miprimerbiblioteca\main.cpp
+	<iostream>
+	"Calculadora.h"
+
+1774280520 c:\users\mrjos\documents\progra\miprimerbiblioteca\include\calculadora.h
+
+1774280478 source:c:\users\mrjos\documents\progra\miprimerbiblioteca\src\calculadora.cpp
+	"Calculadora.h"
+
