@@ -7,7 +7,10 @@
 class validacionpagos0
 {
     public:
+        //declaracion de metodos para cursos y precios
         validacionpagos0();
+        void asignarCursos(string nombrecurso, double preciocurso){}
+        void informaciondecursos(){}
         virtual ~validacionpagos0();
 
     protected:
