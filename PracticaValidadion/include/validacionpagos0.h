@@ -1,7 +1,7 @@
 #ifndef VALIDACIONPAGOS0_H
 #define VALIDACIONPAGOS0_H
-#include <string>
-#include <vector>
+#include<string>
+#include<vector>
 
 
 class validacionpagos0
@@ -9,15 +9,15 @@ class validacionpagos0
     public:
         //declaracion de metodos para cursos y precios
         validacionpagos0();
-        void asignarCursos(string nombrecurso, double preciocurso){}
-        void informaciondecursos(){}
+        void asignarCursos(std::string nombrecurso, double preciocurso);
+        void informaciondecursos();
         virtual ~validacionpagos0();
 
     protected:
 
     private:
-        vector<string>cursos;
-        vector<double>precios;
+        std::vector<std::string>cursos;
+        std::vector<double>precios;
 
         double pagototal;
         double pagoalumno;
