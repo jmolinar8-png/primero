@@ -1,9 +1,14 @@
 # depslib dependency file v1.0
-1776912040 source:c:\users\mrjos\documents\progra\practicavalidadion\main.cpp
+1776984099 source:c:\users\mrjos\documents\progra\practicavalidadion\main.cpp
 	<iostream>
 	"validacionpagos0.h"
 
 1776912216 c:\users\mrjos\documents\progra\practicavalidadion\include\validacionpagos0.h
 	<string>
 	<vector>
+
+1776983588 source:c:\users\mrjos\documents\progra\practicavalidadion\src\validacionpagos0.cpp
+	"validacionpagos0.h"
+	<string>
+	<iostream>
 

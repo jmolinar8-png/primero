@@ -1,0 +1,5 @@
+2a59e05 - 2026-04-22 : Se usaron vectores y sus funciones para poner en el programa una lista de cursos con sus precios
+ab99d07 - 2026-04-22 : Declaracion de las primeras funciones
+025dd83 - 2026-04-22 : Se agregaron los atributos a la clase validacionpagos0
+b58dba0 - 2026-04-22 : Biblioteca creada
+bf174c8 - 2026-04-22 : Creando repositorio de mis ejercicios

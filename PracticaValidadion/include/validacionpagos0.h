@@ -11,6 +11,7 @@ class validacionpagos0
         validacionpagos0();
         void asignarCursos(std::string nombrecurso, double preciocurso);
         void informaciondecursos();
+        void pagoAlumno1(double pago1, double preciocurso);
         virtual ~validacionpagos0();
 
     protected:
