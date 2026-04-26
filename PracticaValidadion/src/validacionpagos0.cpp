@@ -25,16 +25,19 @@ void  validacionpagos0::asignarCursos(std::string nombrecurso, double preciocurs
 
 void validacionpagos0::pagoAlumno1(double pago1, double precioscurso)
 {
+    do{
     if(pago1 > precioscurso){
         cout <<"No puedes pagar mas de: "<< precioscurso << endl;
     }
     else if(pago1 < precioscurso){
         cout <<"El precio a pagar es de: "<< precioscurso << endl;
     }
-    else{
-        cout <<"¡Pago validado con exito!¡Exitos en tus estudios!" << endl;
+    if(pago1 != precioscurso){
+        cout <<"intenta de nuevo. Ingresa el monto: " << endl;
+        cin >> pago1;
     }
-
+    } while (pago1 != precioscurso);
+    cout <<"¡Pago validado con exito!¡Exitos en tus estudios!" << endl;
 }
 
 validacionpagos0::~validacionpagos0()
