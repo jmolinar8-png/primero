@@ -1,0 +1,68 @@
+commit b2aa7897b10388993bcd65852ddcd71305b19d8d
+Merge: 4597e31 57f320d
+Author: jmolinar8-png <jmolinar8@miumg.edu.gt>
+Date:   Thu May 28 13:20:23 2026 -0600
+
+    Merge pull request #1 from jmolinar8-png/Imagen_Josue
+    
+    Foto de un chaval perdido
+
+commit 57f320d816e9a34bec883440d62411f184cb1ffb
+Author: Katheryn Reyes <kreyesb5@miumg.edu.gt>
+Date:   Thu May 28 13:07:10 2026 -0600
+
+    Foto de un chaval perdido
+
+commit 4597e315e0461633b27ad46139de30267a481d46
+Author: Josue-Molina <jmolinar8@miumg.edu.gt>
+Date:   Thu May 28 12:27:35 2026 -0600
+
+    actualizacion y practica
+
+commit 8c86be5b58ff738f1ccecd17bba7068ed2296f4b
+Author: Josue-Molina <jmolinar8@miumg.edu.gt>
+Date:   Thu Apr 30 23:03:22 2026 -0600
+
+    Agregando mas archivos de ejercicios propios
+
+commit a24395706a223d802239b42efca44a3dc472048e
+Author: Josue-Molina <jmolinar8@miumg.edu.gt>
+Date:   Sat Apr 25 23:22:33 2026 -0600
+
+    Se ha creado el cilco do-while
+
+commit 0f90dde8c0d61a5bb8efd7985d9313b4a2599b66
+Author: Josue-Molina <jmolinar8@miumg.edu.gt>
+Date:   Thu Apr 23 20:43:29 2026 -0600
+
+    se creo la funcion pagoAlumno1 para nuestra clase
+
+commit 2a59e0513d28dbeb02c929818d71e40f8747cac7
+Author: Josue-Molina <jmolinar8@miumg.edu.gt>
+Date:   Wed Apr 22 20:49:43 2026 -0600
+
+    Se usaron vectores y sus funciones para poner en el programa una lista de cursos con sus precios
+
+commit ab99d072f81706b8602001274c1f1789ea59bd70
+Author: Josue-Molina <jmolinar8@miumg.edu.gt>
+Date:   Wed Apr 22 20:17:21 2026 -0600
+
+    Declaracion de las primeras funciones
+
+commit 025dd838c9846b088d34f8151814bd01a7b0f5e0
+Author: Josue-Molina <jmolinar8@miumg.edu.gt>
+Date:   Wed Apr 22 20:05:12 2026 -0600
+
+    Se agregaron los atributos a la clase validacionpagos0
+
+commit b58dba0977d35c2a8e24b3000d87b29fd60bb640
+Author: Josue-Molina <jmolinar8@miumg.edu.gt>
+Date:   Wed Apr 22 19:32:01 2026 -0600
+
+    Biblioteca creada
+
+commit bf174c8e8f1280330ff54f1c0325d9b7a5053c36
+Author: Josue-Molina <jmolinar8@miumg.edu.gt>
+Date:   Wed Apr 22 19:08:10 2026 -0600
+
+    Creando repositorio de mis ejercicios
