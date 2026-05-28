@@ -1,0 +1,8 @@
+142536         Miriam_Perez        Enero          
+142536         Miriram_Perez       Febrero        
+142536         Miriam_Perez        Marzo          
+789456         Mario_Ruiz          julio          
+405060         David_Mayen         Julio          
+405060         David_Mayen         Agosto         
+171819         Jose_Garcia         Mayo           
+171819         Jose_Garcia         junio          

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1778859289 source:c:\users\mrjos\documents\progra\dividebyzeroexception\src\dividebyzeroexception.cpp
+	"DivideByZeroException.h"
+	<iostream>
+
+1778860432 c:\users\mrjos\documents\progra\dividebyzeroexception\include\dividebyzeroexception.h
+	<stdexcept>
+
+1778860290 source:c:\users\mrjos\documents\progra\dividebyzeroexception\main.cpp
+	<iostream>
+	"DivideByZeroException.h"
+
