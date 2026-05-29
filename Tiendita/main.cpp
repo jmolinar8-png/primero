@@ -1,9 +1,10 @@
 #include <iostream>
-
+#include "tiendita.h"
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    tiendita producto;
+    producto.menu();
     return 0;
 }

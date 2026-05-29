@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1780036964 source:c:\users\mrjos\documents\progra\tiendita\main.cpp
+	<iostream>
+	"tiendita.h"
+
+1780036723 source:c:\users\mrjos\documents\progra\tiendita\src\tiendita.cpp
+	"tiendita.h"
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+
+1780036391 c:\users\mrjos\documents\progra\tiendita\include\tiendita.h
+	<iostream>
+	<string>
+
